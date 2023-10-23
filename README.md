@@ -5,8 +5,7 @@ I am a student majoring in computer engineering. I'm interested in <img alt="And
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juice-Han&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Juice-Han&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juice-Han&show_icons=true&theme=bear">
 </p>
 
 ---
