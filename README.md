@@ -1,5 +1,5 @@
 
-# Hi 👋 I am JuHan! 
+# Hi, I am JuHan 👋
 I am a student majoring in computer engineering. I'm interested in <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black" width="85"/>
 
 ---
