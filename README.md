@@ -1,6 +1,6 @@
 
 # Hi, I am JuHan 👋
-I am a student majoring in computer engineering. I'm interested in Frontend!
+I am a student majoring in computer engineering.
 
 ---
 
