@@ -1,15 +1,8 @@
-
-
-
-
-  
-
+# Hi, I am JuHan 👋
 
 <div align="center">
 
-# Hi, I am JuHan 👋
-
-<img src="https://render.gitanimals.org/farms/Juice-Han" width="600px" height="300px"/>
+  <img src="https://render.gitanimals.org/farms/Juice-Han" width="600px" height="300px"/>
   
   ##  Learning ✏
 
@@ -45,6 +38,9 @@
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
+---
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juice-han&slug=Spring-Boot-스프링-시큐리티-로그인-과정-간단-정리)](https://github.com/eungyeole/velog-readme-stats) 
