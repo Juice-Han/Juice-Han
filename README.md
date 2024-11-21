@@ -43,4 +43,4 @@
 
 ---
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juice-han&slug=Spring-Boot-스프링-시큐리티-로그인-과정-간단-정리)](https://github.com/eungyeole/velog-readme-stats) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juice-han&slug=Spring-Boot-스프링-시큐리티-로그인-과정-간단-정리)](https://velog.io/@juice-han/Spring-Boot-스프링-시큐리티-로그인-과정-간단-정리) 
