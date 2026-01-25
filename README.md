@@ -48,4 +48,9 @@
 
 ---
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juice-han&slug=Spring-Boot-스프링-시큐리티-로그인-과정-간단-정리)](https://velog.io/@juice-han/Spring-Boot-스프링-시큐리티-로그인-과정-간단-정리) 
+## 프로젝트
+
+- 원코( 2025.10 ~ 현재 / 6명)
+주제: 부모-자녀 페어링 기반 경제 키워드 교육 서비스
+역할: PM, 프론트엔드
+Github Repo: https://github.com/TAVE-16-ONECO
