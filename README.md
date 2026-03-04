@@ -5,7 +5,9 @@
   <img src="https://render.gitanimals.org/farms/Juice-Han" width="600px" height="300px"/>
   
   ##  Learning ✏
-  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  
+  ![next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
 
 
 ##  What I learned 📖  
@@ -50,10 +52,10 @@
 
 ## 프로젝트
 
-### 원코( 2025.10 ~ 현재 / 6명)
+### 원코( 2025.10 ~ 2026.02 / 6명)
 
 주제: 부모-자녀 페어링 기반 경제 키워드 교육 서비스
 
-역할: PM, 프론트엔드
+역할: 팀장, 프론트엔드
 
 Github Repo: https://github.com/TAVE-16-ONECO
