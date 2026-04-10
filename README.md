@@ -1,6 +1,6 @@
-[![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)](https://capsule-render.vercel.app/api?type=speech&height=200&color=0:fc00ff,100:00dbde&text=hello%20👋&reversal=false&textBg=false&animation=blinking&fontColor=f7f5f5&fontSize=60&fontAlignY=42&descAlignY=72&fontAlign=25)
-
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=speech&height=250&color=0:fc00ff,100:00dbde&text=hello%20👋&reversal=false&textBg=false&animation=blinking&fontColor=f7f5f5&fontSize=60&fontAlignY=42&descAlignY=72&fontAlign=50)
 
   ### 🎙️ Introduce
   안녕하세요! 저는 프론트엔드 개발자 박주한입니다.<br/>프론트엔드의 다양한 기술을 체험하고 활용하는 것에 관심이 있습니다😎
